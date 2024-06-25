@@ -18,7 +18,7 @@ https://www.pling.com/p/1356095/
     ```
     git clone https://github.com/varlesh/volantes-cursors.git
     cd volantes-cursors
-    make build
+    DBUS_SESSION_BUS_ADDRESS="" make build
     sudo make install
     ```
 
