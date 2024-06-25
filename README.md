@@ -16,7 +16,7 @@ https://www.pling.com/p/1356095/
 2. Run the following commands as normal user:
 
     ```
-    git clone https://github.com/varlesh/volantes-cursors.git
+    git clone https://github.com/418ERT/volantes-cursors
     cd volantes-cursors
     DBUS_SESSION_BUS_ADDRESS="" make build
     sudo make install
